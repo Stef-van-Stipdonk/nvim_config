@@ -5,4 +5,5 @@ return {
 	require("plugins.oil"),
 	require("plugins.coc"),
 	require('plugins.bufferline'),
+	require('plugins.harpoon'),
 }
