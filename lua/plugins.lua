@@ -7,4 +7,5 @@ return {
 	require('plugins.bufferline'),
         require('plugins.mason'),
         require('plugins.lsp'),
+        require('plugins.neogen'),
 }
