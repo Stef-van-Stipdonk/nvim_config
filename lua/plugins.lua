@@ -5,7 +5,8 @@ return {
 	require("plugins.treesitter"),
 	require("plugins.oil"),
 	require('plugins.bufferline'),
+    require('plugins.harpoon'),
     require('plugins.mason'),
     require('plugins.lsp'),
-    require('plugins.harpoon'),
+    require('plugins.neogen'),
 }
